@@ -1,1 +1,2 @@
-This file is explaining about vagrant 
+Repo used to explain what the project is about
+
